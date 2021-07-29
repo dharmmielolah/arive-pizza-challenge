@@ -2,7 +2,7 @@
 
 ## Netlify Link
 
-(https://www.figma.com/file/ULRpHT8hnM380HTnQZUg9c/Pizza-Challenge-UI?node-id=0%3A1)
+(https://arive-pizza-challenge.netlify.app/)
 
 ## Figma Design
 
