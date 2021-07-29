@@ -1,0 +1,20 @@
+.success-modal {
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  .modal-box {
+    width: 613px;
+    min-height: 383px;
+    flex-direction: column;
+    background-color: var(--white);
+    h1 {
+      margin-bottom: 16px;
+    }
+    p {
+      margin-bottom: 30px;
+    }
+  }
+}

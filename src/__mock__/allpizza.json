@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image": "https://res.cloudinary.com/dc874umqf/image/upload/v1627472915/pizza_hs9pzi.png",
+  "name": "Chicken Curry",
+  "start_price": 15,
+  "prices": [
+    { "size": "small", "price": 15, "kg": "320" },
+    { "size": "medium", "price": 20, "kg": "530" },
+    { "size": "large", "price": 25, "kg": "860" }
+  ],
+  "items": [
+    "Chicken",
+    "meatballs",
+    "mozzarella",
+    "red onions",
+    "green peppers",
+    "tomatoes",
+    "peri peri",
+    "pizza sauce",
+    "sweet chili sauce",
+    "fried plantain"
+  ],
+  "toppings": [
+    { "name": "Olives", "price": 3 },
+    { "name": "Pepperoni", "price": 4 },
+    { "name": "Mushrooms", "price": 2 },
+    { "name": "Pepper", "price": 2 }
+  ]
+}
